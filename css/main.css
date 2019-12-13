@@ -36,3 +36,30 @@ h1 {
 
 nav {
   justify-content: center;
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+  padding: 0;
+}
+
+nav li {
+  font-size: 1.125rem;
+  padding: .4rem 0;
+  border: 1px solid #a63f38;
+  width: 33.3333%;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background-color: #a63f38;
+}
+
+li:hover {
+  background-color: #a63f38;
+}
