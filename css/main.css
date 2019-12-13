@@ -16,3 +16,23 @@ header {
   background-color: #d05c2e;
   color: #fff;
   text-align: center;
+}
+
+div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: .5em 0;
+}
+
+img {
+  width: 40px;
+}
+
+h1 {
+  font-size: 2rem;
+  margin: 0;
+}
+
+nav {
+  justify-content: center;
