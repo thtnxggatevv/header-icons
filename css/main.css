@@ -1,0 +1,18 @@
+html {
+  box-sizing: border-box;
+  font-family: Merriweather, serif;
+  line-height: 1.5;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+header {
+  background-color: #d05c2e;
+  color: #fff;
+  text-align: center;
